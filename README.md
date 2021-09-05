@@ -28,7 +28,7 @@
 
 
 
-[portfolio]: https://lucasquearis.github.io/
+[portfolio]: https://lucasquearis.github.io/portfolio/
 [trybe]: https://www.betrybe.com/
 [instagram]: https://www.instagram.com/lucasquearis/
 [linkedin]: https://www.linkedin.com/in/lucasquearis
