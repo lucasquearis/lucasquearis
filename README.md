@@ -25,6 +25,8 @@
 ### GitHub Stats Card
 ![lucasquearis GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasquearis&count_private=true&show_icons=true&theme=dracula)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucasquearis&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
