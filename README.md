@@ -2,7 +2,8 @@
 ## Sou Estudante de Desenvolvimento Web
 
 - 🔭 Estou desenvolvendo meu  [Portfólio][portfolio]!
-- 🌱 Atualmente estudando Back-end na [Trybe][trybe][Repositório Todos Exercícios e Projetos feitos][exercicios]
+- 🌱 Atualmente estudando Back-end na [Trybe][trybe]\
+[Repositório Todos Exercícios e Projetos feitos][exercicios]
 - 👯 Procurando oportunidades de desenvolvimento na área de programação
 - 🥅 2021 Goals: Comecei a estudar na [Trybe][trybe]
 - ⚡ Fun fact: Amo a natureza e jogos-online
