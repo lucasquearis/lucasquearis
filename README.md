@@ -21,7 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasquearis&theme=dracula)\
 Front-end:
-<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <i class="devicon-jest-plain colored"></i>
 <i class="devicon-redux-original colored"></i>
 <i class="devicon-html5-plain-wordmark colored"></i>
