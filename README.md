@@ -1,7 +1,4 @@
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-</head>
-<body>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 ### Olá, eu sou o Lucas  👋
 
@@ -26,7 +23,7 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasquearis&theme=dracula)\
   Front-end:
-  <i class="devicon-react-original-wordmark colored"></i>
+  [<i class="devicon-react-original-wordmark colored"></i>]()
   <i class="devicon-jest-plain colored"></i>
   <i class="devicon-redux-original colored"></i>
   <i class="devicon-html5-plain-wordmark colored"></i>
@@ -55,5 +52,3 @@
   [instagram]: https://www.instagram.com/lucasquearis/
   [linkedin]: https://www.linkedin.com/in/lucasquearis
   [exercicios]: https://github.com/lucasquearis/trybe-exercises
-
-</body>
