@@ -19,8 +19,6 @@
 
 ### Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasquearis&theme=dracula)\
-
 #### Front-end
 
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -37,9 +35,11 @@
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+
 <br />
-<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasquearis&theme=dracula)\
 
 ---
 
