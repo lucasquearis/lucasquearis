@@ -20,20 +20,24 @@
 ### Languages and Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasquearis&theme=dracula)\
-Front-end:
+
+#### Front-end
+
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<i class="devicon-jest-plain colored"></i>
-<i class="devicon-redux-original colored"></i>
-<i class="devicon-html5-plain-wordmark colored"></i>
-<i class="devicon-css3-plain-wordmark colored"></i>
-<i class="devicon-javascript-plain colored"></i>
-Back-end:
-<i class="devicon-mysql-plain-wordmark colored"></i>
-<i class="devicon-mongodb-plain-wordmark colored"></i>
-<i class="devicon-nodejs-plain-wordmark colored"></i>
-<i class="devicon-npm-original-wordmark colored"></i>
-<i class="devicon-express-original-wordmark colored"></i>
-<i class="devicon-docker-plain-wordmark colored"></i>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+#### Back-end
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <br />
 <br />
 
