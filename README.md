@@ -3,7 +3,7 @@
 ## Sou Estudante de Desenvolvimento Web
 
 - 🔭 Conheça o meu  [Portfólio][portfolio]!
-- 🌱 Sou formado pela [Trybe][trybe]\[Repositório Todos Exercícios e Projetos feitos][exercicios]
+- 🌱 Sou formado pela [Trybe][trybe] - [Repositório Todos Exercícios e Projetos feitos][exercicios]
 - 👯 Procurando oportunidades de desenvolvimento na área de programação
 - 🥅 2021 Goals: Comecei a estudar na [Trybe][trybe]
 - ⚡ Fun fact: Amo a natureza e jogos-online
@@ -52,3 +52,4 @@
 [instagram]: https://www.instagram.com/lucasquearis/
 [linkedin]: https://www.linkedin.com/in/lucasquearis
 [exercicios]: https://github.com/lucasquearis/trybe-exercises
+[trybe]: https://www.betrybe.com/
