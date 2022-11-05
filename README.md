@@ -2,7 +2,7 @@
 
 ## Sou Estudante de Desenvolvimento Web
 
-- 🔭 Estou desenvolvendo meu  [Portfólio][portfolio]!
+- 🔭 Conheça o meu  [Portfólio][portfolio]!
 - 🌱 Atualmente estudando Ciência da Computação na [Trybe][trybe]\
   [Repositório Todos Exercícios e Projetos feitos][exercicios]
 - 👯 Procurando oportunidades de desenvolvimento na área de programação
@@ -49,8 +49,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucasquearis&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[portfolio]: https://lucasquearis.github.io/portfolio/
-[trybe]: https://www.betrybe.com/
+[portfolio]: https://lucasquearis.vercel.app/
 [instagram]: https://www.instagram.com/lucasquearis/
 [linkedin]: https://www.linkedin.com/in/lucasquearis
 [exercicios]: https://github.com/lucasquearis/trybe-exercises
