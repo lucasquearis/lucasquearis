@@ -2,7 +2,7 @@
 
 ## Sou Estudante de Desenvolvimento Web
 
-- ✉️ Me mande um e-mail! [Email](mailto:lucasquearis@hotmail.com?subject=Olá%20Lucas,%20vi%20seu%20github)
+- ✉️ Me mande um [e-mail](mailto:lucasquearis@hotmail.com?subject=Olá%20Lucas,%20vi%20seu%20github)!
 - 🔭 Conheça o meu  [Portfólio][portfolio]!
 - 🌱 Sou formado pela [Trybe][trybe] - [Repositório Todos Exercícios e Projetos feitos][exercicios]
 - 👯 Procurando oportunidades de desenvolvimento na área de programação
