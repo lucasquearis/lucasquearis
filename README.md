@@ -2,6 +2,7 @@
 
 ## Sou Estudante de Desenvolvimento Web
 
+- ✉️ Me mande um e-mail! [Email](mailto:lucasquearis@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - 🔭 Conheça o meu  [Portfólio][portfolio]!
 - 🌱 Sou formado pela [Trybe][trybe] - [Repositório Todos Exercícios e Projetos feitos][exercicios]
 - 👯 Procurando oportunidades de desenvolvimento na área de programação
@@ -48,7 +49,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucasquearis&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[portfolio]: https://lucasquearis.vercel.app/
+[portfolio]: https://lucasquearis.com.br/
 [instagram]: https://www.instagram.com/lucasquearis/
 [linkedin]: https://www.linkedin.com/in/lucasquearis
 [exercicios]: https://github.com/lucasquearis/trybe-exercises
