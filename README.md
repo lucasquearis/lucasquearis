@@ -4,6 +4,7 @@
 
 - ✉️ Me mande um [e-mail](mailto:lucasquearis@hotmail.com?subject=Olá%20Lucas,%20vi%20seu%20github)!
 - 🔭 Conheça o meu  [Portfólio][portfolio]!
+- 👨🏽‍🎓 Cursando Inteligência Artificial Aplicada na PUCPR!
 - 🌱 Sou formado pela [Trybe][trybe] - [Repositório Todos Exercícios e Projetos feitos][exercicios]
 - 👯 Procurando oportunidades de desenvolvimento na área de programação
 - 🥅 2021 Goals: Comecei a estudar na [Trybe][trybe]
@@ -11,7 +12,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" style="fill:orange" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
