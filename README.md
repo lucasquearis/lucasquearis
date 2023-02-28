@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas  👋
 
-## Sou Estudante de Desenvolvimento Web
+## Sou Desenvolvedor Full Stack!
 
 - ✉️ Me mande um [e-mail](mailto:lucasquearis@hotmail.com?subject=Olá%20Lucas,%20vi%20seu%20github)!
 - 🔭 Conheça o meu  [Portfólio][portfolio]!
